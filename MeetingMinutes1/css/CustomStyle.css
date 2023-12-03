@@ -1,0 +1,184 @@
+﻿body
+{
+    margin:0;
+    padding:0;
+    /*background:#E2E1E0;*/
+    background: #e2e1e0;
+  text-align: center;
+
+}
+.top-bg-theme {
+	  /*background: #4A8BC2;*/
+      /*background:#2B373E;*/
+      background: #161616;
+      background-image: linear-gradient(#323232,#161616);
+      /*background:#25A0DA;*/
+      /*background:#E7E7E7;*/
+      border-bottom: 1px solid #c9aa5f;
+     
+}
+.RadMenu .rmRootGroup .rmRootLink {
+    padding: 9px 28px .35em;
+}
+.Page-Header{
+    box-sizing: border-box;
+    margin: 10px 0px 5px;
+    font-size: 14px; 
+    vertical-align: baseline;
+    font-family: tahoma, Arial, Helvetica, sans-serif; 
+    font-style: normal; 
+    font-variant-ligatures: normal; 
+    font-variant-caps: normal;
+    text-align:center; 
+    font-weight:bold; 
+    margin: 0px 0px 5px; 
+    padding: 5px; 
+    border: 0px; 
+    font-size: 14px; 
+    vertical-align: baseline; 
+    line-height: 20px; 
+    color: #FFFFFF;
+    background-color: #4279F2;
+    text-transform: uppercase;   
+    vertical-align: baseline;
+}
+.Page-Header-border{
+    box-sizing: border-box; 
+    width: 100%; 
+    margin: 0px 0px 10px; 
+    padding: 0px 0px 0px; 
+    border-width: 0px 0px 3px; 
+    border-top-style: initial; 
+    border-right-style: initial; 
+    border-bottom-style: solid; 
+    border-left-style: initial; 
+    border-top-color: initial; 
+    border-right-color: initial; 
+    border-bottom-color: rgb(255, 177, 0); 
+    border-left-color: initial; 
+    border-image: initial; 
+    font-size: 19px; 
+    vertical-align: baseline; 
+    font-weight: 600; 
+    color: rgb(27, 126, 168); 
+    font-family: tahoma, Arial, Helvetica, sans-serif; 
+    font-style: normal; 
+    font-variant-ligatures: normal; 
+    font-variant-caps: normal; 
+    letter-spacing: normal; 
+    orphans: 2; 
+    text-align: start; 
+    text-indent: 0px; 
+    text-transform: none; 
+    white-space: normal; 
+    widows: 2; 
+    word-spacing: 0px; 
+    -webkit-text-stroke-width: 0px; 
+    background-color: rgb(255, 255, 255);
+}
+.left-box
+{
+    /*padding:2px;*/
+    padding-right:95px;
+    background: #fff;
+    font-size:18px;
+    text-transform:uppercase;
+    text-align:left;
+    font-weight:bold;
+    border-radius: 4px;    
+    /*border-top:8px solid green;*/
+    
+    display: inline-block;
+    width:45%;
+    height:345px;
+    position: relative; 
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+    margin-bottom:5px;
+}
+
+
+.left-box1
+{
+    
+   
+    /*padding-right:620px;*/
+    /*padding-left:2px;*/
+    padding-left:2px;
+    background: #fff;
+    font-size:18px;
+    text-transform:uppercase;
+    text-align:left;
+    font-weight:bold;
+    border-radius: 4px;    
+    /*border-top:8px solid green;*/
+    
+    display: inline-block;
+    width:45%;
+    
+    /*height:45px;*/
+    height:110px;
+   
+    position: relative; 
+    /*box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);*/
+      box-shadow: 30 30px 50px rgba(0,0,0,0.12);
+   
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+    margin-bottom:5px;
+}
+.font-color
+{
+    color:black;    
+    margin-left:0px;
+}
+.form-group {
+    margin-bottom: 15px;
+    text-transform: capitalize;
+    font-weight:100;
+    vertical-align:middle;
+}
+.customtextCenter
+{
+     text-transform: capitalize;   
+     text-align:center;
+     font-size:12px;
+     font-family:Calibri;
+}
+.customtextgvHeader
+{
+     text-transform: capitalize;   
+     text-align:left;
+     font-size:12px;
+     font-weight:normal;
+     font-family:'Charlemagne Std';
+}
+.customtextgvHeaderChild
+{
+     text-transform: capitalize;   
+     text-align:left;
+     font-size:12px;
+     font-weight:normal;
+     font-family:Georgia ;
+}
+.customtextleftbold
+{
+     text-transform: capitalize;   
+     text-align:left;
+     font-size:14px;
+     font-weight:bold;
+     font-family:Verdana;
+}
+.nopadding{
+    padding-right:0;
+    padding-left:0;
+}
+.nopaddingLeft{
+    padding-left:0;
+}
+.nopaddingRight{
+    padding-right:0;
+}
+.custompadding
+{
+    padding-bottom:15px;
+}
